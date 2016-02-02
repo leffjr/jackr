@@ -1,0 +1,19 @@
+Package: jackr
+Type: Package
+Title: Basic Functions
+Version: 0.1.0
+Author: c(person("Jack", "Leff", email ="leffjr@appstate.edu",
+         role = c("aut", "cre")),
+        person("Sammy", "Hlebak", email = "Hlebaksm@appstate.edu",
+         role = "aut")
+        person("Erin", "Kreiling", email = "kreilingeg@appstate.edu",
+         role = "ctb")
+Maintainer: "Jack Leff" <leffjr@appstate.edu>
+Description: This package performs some very basic functions for practice
+Depends: R (>= 3.2.0)
+License: GPL-2
+LazyData: TRUE
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+
+
