@@ -9,6 +9,8 @@ Author: c(person("Jack", "Leff", email ="leffjr@appstate.edu",
         person("Erin", "Kreiling", email = "kreilingeg@appstate.edu",
          role = "ctb")
 Maintainer: "Jack Leff" <leffjr@appstate.edu>
+URL: https://github.com/leffjr/jackr.git
+BugReport: https://github.com/leffjr/jackr/issues
 Description: This package performs some very basic functions for practice
 Depends: R (>= 3.2.0)
 License: GPL-2
